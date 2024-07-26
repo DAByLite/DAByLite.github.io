@@ -1,4 +1,4 @@
-# jekyll-theme-read-the-docs
+# Bigmem2 docs
 
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/JV-conseil/jekyll-theme-read-the-docs/badge)](https://www.jsdelivr.com/package/gh/JV-conseil/jekyll-theme-read-the-docs)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.jekyll-theme-read-the-docs)
@@ -19,6 +19,8 @@
 > Read the Docs 📖 like Jekyll Theme for GitHub Pages
 
 ## What it does?
+
+Easily manage data sets that can't fit into memory with minimum overhead
 
 This theme is inspired by [sphinx-rtd-theme](https://github.com/jekyll-theme-read-the-docs/sphinx_rtd_theme) and refactored with:
 
