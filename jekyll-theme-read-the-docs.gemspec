@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-read-the-docs"
+  spec.name          = "Bigmem2 documentation"
   spec.version       = "2.3"
   spec.authors       = ["JV-conseil"]
   spec.email         = ["contact@jv-conseil.net"]
