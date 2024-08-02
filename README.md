@@ -1,4 +1,4 @@
-# Bigmem2 docs
+# Bigmem2 [Bigmem2Icon](https://github.com/Bigmem2/Bigmem2.github.io/blob/main/assets/images/Bigmem2Icon.jpeg) docs
 
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/JV-conseil/jekyll-theme-read-the-docs/badge)](https://www.jsdelivr.com/package/gh/JV-conseil/jekyll-theme-read-the-docs)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.jekyll-theme-read-the-docs)
