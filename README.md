@@ -1,4 +1,4 @@
-# Bigmem2 [Bigmem2Icon](https://github.com/Bigmem2/Bigmem2.github.io/blob/main/assets/images/Bigmem2Icon.jpeg) docs
+# Bigmem2 ![Bigmem2Icon](https://github.com/Bigmem2/Bigmem2.github.io/blob/main/assets/images/Bigmem2Icon.jpeg) docs
 
 ![Bigmem2Icon](assets/images/Bigmem2Icon.jpeg?raw=true)
 
