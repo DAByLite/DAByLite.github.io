@@ -1,6 +1,6 @@
 # DAByLite docs
 
-<img src="assets/images/DAByLite_hex.jpeg?raw=true" alt="DAByLite_hex" style="width: 20;">
+<img src="assets/images/DAByLite_hex.jpeg?raw=true" alt="DAByLite_hex" style="width: 20px;">
 
 
 
