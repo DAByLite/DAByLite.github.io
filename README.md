@@ -1,6 +1,4 @@
-# DAByLite docs
-
-# DAByLite <a href="https://DAByLite.github.io"><img src="assets/images/DAByLite_hex.jpeg?raw=true" align="right" height="138" /></a>
+# DAByLite docs <a href="https://DAByLite.github.io"><img src="assets/images/DAByLite_hex.jpeg?raw=true" align="right" height="138" /></a>
 
 
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/JV-conseil/jekyll-theme-read-the-docs/badge)](https://www.jsdelivr.com/package/gh/JV-conseil/jekyll-theme-read-the-docs)
