@@ -73,5 +73,5 @@ mydata = read_csv("mydata_formatted.csv", rows = 1000000, cols = 1)
 Now, read the first 1 million rows of the first variable. Set x to 1 (first million rows) and y to 1 (first variable).
 
 ```{r}
-get(mydata, x = 1, y = 1)
+read_partial(mydata, x = 1, y = 1)
 ```
