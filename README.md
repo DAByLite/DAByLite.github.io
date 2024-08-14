@@ -22,7 +22,8 @@ DAByLite is an R package, so first install R from [R Project](https://www.r-proj
 
 ```{r}
 # Your R code goes here
-summary(cars$speed)  # Example R code
+install.packages("remotes")
+remotes::install_github("DAByLite/DAByLite")
 ```
 
 You can [generate][rundocs/starter] with the same files and folders from [rundocs/starter][rundocs/starter]
