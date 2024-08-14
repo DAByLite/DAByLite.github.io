@@ -14,7 +14,7 @@
 |----------------------------------------------------------------|------------------------------------------------|
 | [DAByLite Github repo](https://github.com/DAByLite/DAByLite)   | [DAByLite docs](https://dabylite.github.io/)   |
 
-> Big data management in R
+> Big data management in R with **da**ta **by**te **lite**
 
 ## What it does
 
