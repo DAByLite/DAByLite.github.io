@@ -35,11 +35,11 @@ remotes::install_github("DAByLite/DAByLite")
 library(DAByLite)
 ```
 
-1. DAByLite uses CSV files, so first convert your file type to CSV.
+1. **DAByLite uses CSV files, so first convert your file type to CSV.**
 
 The burden is on the user to write the source data to CSV. Many tools have this capability and conversion tools are available.
 
-2. DAByLite checks your CSV formatting.
+2. **DAByLite checks your CSV formatting.**
 
 Assuming your CSV file is called "mydata.csv".
 
@@ -48,13 +48,13 @@ check_csv("mydata.csv")
 ```
 DAByLite tells you if the format doesn't match the package's CSV standard. If no issues were detected, skip step 4.
 
-4. DAByLite will adapt your CSV to the DAByLite CSV standard.
+4. **DAByLite will adapt your CSV to the DAByLite CSV standard.**
 
 ```{r}
 write_csv("mydata.csv", "mydata_formatted.csv")
 ```
 
-5. DAByLite reads CSV data into an efficient format for reading.
+5. **DAByLite reads CSV data into an efficient format for reading.**
 
 ```{r}
 read_csv("mydata.csv")
