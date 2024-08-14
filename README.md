@@ -12,16 +12,13 @@
 
 > Big data management in R
 
-## What it does?
+## What it does
 
-Easily manage data sets that can't fit into memory with minimum overhead
-
-This theme is inspired by [sphinx-rtd-theme](https://github.com/jekyll-theme-read-the-docs/sphinx_rtd_theme) and refactored with:
-
-- [@primer/css](https://github.com/primer/css)
-- [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
+Easily manage big data sets that can't fit into memory with minimum overhead
 
 ## Quick start
+
+DAByLite is an R package, so first install R from [R Project](https://www.r-project.org/).
 
 ```yml
 remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
