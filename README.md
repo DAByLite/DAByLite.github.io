@@ -1,6 +1,6 @@
-# Bigmem2 ![Bigmem2Icon](https://github.com/Bigmem2/Bigmem2.github.io/blob/main/assets/images/Bigmem2Icon.jpeg) docs
+# Bigmem2 docs
 
-![Bigmem2Icon](assets/images/Bigmem2Icon.jpeg?raw=true)
+<img src="assets/images/DAByLite_hex.jpeg?raw=true" width="100" alt="DAByLite_hex">
 
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/JV-conseil/jekyll-theme-read-the-docs/badge)](https://www.jsdelivr.com/package/gh/JV-conseil/jekyll-theme-read-the-docs)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.jekyll-theme-read-the-docs)
