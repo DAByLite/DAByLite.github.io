@@ -1,7 +1,7 @@
 # DAByLite docs <a href="https://DAByLite.github.io"><img src="assets/images/DAByLite_hex.jpeg?raw=true" align="right" height="138" /></a>
 
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/dabylite/dabylite/badge)](https://www.jsdelivr.com/package/gh/dabylite/dabylite)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DAByLite.DAByLite.github.io)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DAByLite.DAByLite)
 [![CodeQL](https://github.com/JV-conseil/jekyll-theme-read-the-docs/actions/workflows/codeql.yml/badge.svg?branch=dev)](https://github.com/JV-conseil/jekyll-theme-read-the-docs/actions/workflows/codeql.yml)
 [![Umami - GDPR compliant alternative to Google Analytics](https://img.shields.io/badge/analytics-umami-green)](https://analytics.umami.is/share/M19mr5L7jVhHuFnb/jv-conseil.github.io "Umami - GDPR compliant alternative to Google Analytics")
 [![License EUPL 1.2](https://img.shields.io/badge/License-EUPL--1.2-blue.svg)](LICENSE)
