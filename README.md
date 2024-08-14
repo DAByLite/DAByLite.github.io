@@ -1,4 +1,4 @@
-# Bigmem2 docs
+# DAByLite docs
 
 <img src="assets/images/DAByLite_hex.jpeg?raw=true" width="200" alt="DAByLite_hex">
 
