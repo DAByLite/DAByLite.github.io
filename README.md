@@ -12,6 +12,11 @@
 
 > Big data management in R
 
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+
+
 ## What it does
 
 Easily manage big data sets that can't fit into memory with minimum overhead.
