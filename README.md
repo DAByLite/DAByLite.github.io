@@ -50,6 +50,8 @@ DAByLite tells you if the format doesn't match the package's CSV standard. If no
 
 4. **DAByLite will adapt your CSV to the DAByLite CSV standard.**
 
+Assume you would like to write the source data "mydata.csv" to a new file called "mydata_formatted.csv".
+
 ```{r}
 write_csv("mydata.csv", "mydata_formatted.csv")
 ```
