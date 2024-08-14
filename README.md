@@ -1,6 +1,6 @@
 # Bigmem2 docs
 
-<img src="assets/images/DAByLite_hex.jpeg?raw=true" width="100" alt="DAByLite_hex">
+<img src="assets/images/DAByLite_hex.jpeg?raw=true" width="200" alt="DAByLite_hex">
 
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/JV-conseil/jekyll-theme-read-the-docs/badge)](https://www.jsdelivr.com/package/gh/JV-conseil/jekyll-theme-read-the-docs)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.jekyll-theme-read-the-docs)
