@@ -20,7 +20,9 @@ Easily manage big data sets that can't fit into memory with minimum overhead.
 
 1. **DAByLite is an R package, so first install R from the [R Project](https://www.r-project.org/).**
 
-2. **Install the package from Github using the remotes package**
+The best installation istructions for R and RStudio can be found at [Posit]([https://www.r-project.org/](https://posit.co/download/rstudio-desktop/)).
+
+3. **Install the package from Github using the remotes package**
 
 ```{r}
 install.packages("remotes")
