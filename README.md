@@ -26,7 +26,7 @@ Easily manage big data sets that can't fit into memory with minimum overhead.
 
 The best installation istructions for R and RStudio can be found at [Posit](https://posit.co/download/rstudio-desktop/).
 
-3. **Install the package from Github using the remotes package**
+2. **Install the package from Github using the remotes package**
 
 ```{r}
 install.packages("remotes")
