@@ -1,6 +1,17 @@
 # DAByLite docs
 
-<img src="assets/images/DAByLite_hex.jpeg?raw=true" width="200" alt="DAByLite_hex">
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <!-- Your image here -->
+        <img src="assets/images/DAByLite_hex.jpeg?raw=true" width="200" alt="DAByLite_hex">
+    </div>
+    <div style="flex: 3; padding-left: 20px;">
+        <!-- Your list or other content here -->
+        [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/JV-conseil/jekyll-theme-read-the-docs/badge)](https://www.jsdelivr.com/package/gh/JV-conseil/jekyll-theme-read-the-docs)
+    </div>
+</div>
+
+
 
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/JV-conseil/jekyll-theme-read-the-docs/badge)](https://www.jsdelivr.com/package/gh/JV-conseil/jekyll-theme-read-the-docs)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.jekyll-theme-read-the-docs)
