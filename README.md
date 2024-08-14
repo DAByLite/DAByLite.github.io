@@ -12,9 +12,9 @@
 
 > Big data management in R
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Data 1   | Data 2   | Data 3   |
+| Find the R package                                     | Find the documentation                         |
+|--------------------------------------------------------|------------------------------------------------|
+| [DAByLite Github repo](github.com/DAByLite/DAByLite)   | [DAByLite docs](https://dabylite.github.io/)   |
 
 
 ## What it does
