@@ -12,9 +12,9 @@
 
 > Big data management in R
 
-| Find the R package                                     | Find the documentation                         |
-|--------------------------------------------------------|------------------------------------------------|
-| [DAByLite Github repo](github.com/DAByLite/DAByLite)   | [DAByLite docs](https://dabylite.github.io/)   |
+| Find the R package                                             | Find the documentation                         |
+|----------------------------------------------------------------|------------------------------------------------|
+| [DAByLite Github repo](https://github.com/DAByLite/DAByLite)   | [DAByLite docs](https://dabylite.github.io/)   |
 
 
 ## What it does
