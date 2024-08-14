@@ -10,12 +10,11 @@
 [![License BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 -->
 
-> Big data management in R
-
 | Find the R package                                             | Find the documentation                         |
 |----------------------------------------------------------------|------------------------------------------------|
 | [DAByLite Github repo](https://github.com/DAByLite/DAByLite)   | [DAByLite docs](https://dabylite.github.io/)   |
 
+> Big data management in R
 
 ## What it does
 
