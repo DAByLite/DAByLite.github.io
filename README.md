@@ -20,8 +20,9 @@ Easily manage big data sets that can't fit into memory with minimum overhead
 
 DAByLite is an R package, so first install R from [R Project](https://www.r-project.org/).
 
-```yml
-remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
+```{r}
+# Your R code goes here
+summary(cars$speed)  # Example R code
 ```
 
 You can [generate][rundocs/starter] with the same files and folders from [rundocs/starter][rundocs/starter]
