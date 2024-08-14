@@ -27,8 +27,6 @@ install.packages("remotes")
 remotes::install_github("DAByLite/DAByLite")
 ```
 
-You can [generate][rundocs/starter] with the same files and folders from [rundocs/starter][rundocs/starter]
-
 ## Usage
 
 Documentation that can guide how to create with Github pages, please refer to [rundocs/jekyll-rtd-theme](https://github.com/rundocs/jekyll-rtd-theme) for details
