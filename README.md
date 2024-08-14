@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; max-width: 200px;"> <!-- Adjust width as needed -->
-        <img src="assets/images/DAByLite_hex.jpeg?raw=true" alt="DAByLite_hex" style="width: 100%;">
+        <img src="assets/images/DAByLite_hex.jpeg?raw=true" alt="DAByLite_hex" style="width: 200;">
     </div>
     <div style="flex: 3; padding-left: 20px;">
         <a href="https://www.jsdelivr.com/package/gh/JV-conseil/jekyll-theme-read-the-docs">
