@@ -1,15 +1,6 @@
 # DAByLite docs
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; max-width: 50px;"> <!-- Adjust width as needed -->
-        <img src="assets/images/DAByLite_hex.jpeg?raw=true" alt="DAByLite_hex" style="width: 50;">
-    </div>
-    <div style="flex: 3; padding-left: 200px;">
-        <a href="https://www.jsdelivr.com/package/gh/JV-conseil/jekyll-theme-read-the-docs">
-            <img src="https://data.jsdelivr.com/v1/package/gh/JV-conseil/jekyll-theme-read-the-docs/badge" alt="jsDelivr">
-        </a>
-    </div>
-</div>
+<img src="assets/images/DAByLite_hex.jpeg?raw=true" alt="DAByLite_hex" style="width: 50;">
 
 
 
