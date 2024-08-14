@@ -1,6 +1,6 @@
 # DAByLite docs
 
-# dplyr <a href="https://dplyr.tidyverse.org"><img src="man/figures/logo.png" align="right" height="138" /></a>
+# DAByLite <a href="https://DAByLite.github.io"><img src="assets/images/DAByLite_hex.jpeg?raw=true" align="right" height="138" /></a>
 
 <img src="assets/images/DAByLite_hex.jpeg?raw=true" alt="DAByLite_hex" style="width: 200px;">
 
