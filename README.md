@@ -59,7 +59,7 @@ write_csv("mydata.csv", "mydata_formatted.csv")
 5. **DAByLite reads CSV data into an efficient format for reading.**
 
 ```{r}
-mydata = read_csv("mydata.csv", rows = 1000000, cols = 1)
+mydata = read_csv("mydata_formatted.csv", rows = 1000000, cols = 1)
 ```
 
 6. **DAByLite reads CSV data into an efficient format for reading.**
