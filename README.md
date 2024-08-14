@@ -57,10 +57,12 @@ DAByLite tells you if the format doesn't match the package's CSV standard. If no
 Assume you would like to write the source data "mydata.csv" to a new file called "mydata_formatted.csv".
 
 ```{r}
-write_csv("mydata.csv", "mydata_formatted.csv")
+rewrite_csv("mydata.csv", "mydata_formatted.csv")
 ```
 
 5. **DAByLite reads CSV data into an efficient format for reading.**
+
+You can control the number of rows and columns to read efficiently. For example, say you want to read 1 million rows at a time of each column separately. Set rows to 1000000 and cols to 1.
 
 ```{r}
 mydata = read_csv("mydata_formatted.csv", rows = 1000000, cols = 1)
@@ -68,6 +70,8 @@ mydata = read_csv("mydata_formatted.csv", rows = 1000000, cols = 1)
 
 6. **DAByLite reads CSV data into an efficient format for reading.**
 
+Now, read the first 1 million rows of the first variable. Set x to 1 (first million rows) and y to 1 (first variable).
+
 ```{r}
-get(mydata, 1, 1)
+get(mydata, x = 1, y = 1)
 ```
