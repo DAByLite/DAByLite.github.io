@@ -1,4 +1,4 @@
-# DAByLite docs <a href="https://DAByLite.github.io"><img src="assets/images/DAByLite_hex.jpeg?raw=true" align="right" height="138" /></a>
+# dfqr docs <a href="https://DAByLite.github.io"><img src="assets/images/DAByLite_hex.jpeg?raw=true" align="right" height="138" /></a>
 
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/dabylite/dabylite/badge)](https://www.jsdelivr.com/package/gh/dabylite/dabylite)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DAByLite.DAByLite.github.io)
@@ -10,9 +10,9 @@
 [![License BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 -->
 
-| Find the R package                                             | Find the documentation                         |
-|----------------------------------------------------------------|------------------------------------------------|
-| [DAByLite Github repo](https://github.com/DAByLite/DAByLite)   | [DAByLite docs](https://dabylite.github.io/)   |
+| Find the R package                                 | Find the documentation                     |
+|----------------------------------------------------|--------------------------------------------|
+| [dfqr Github repo](https://github.com/dfqr/dfqr)   | [DAByLite docs](https://dfqr.github.io/)   |
 
 > Big data management in R with **DA**ta **By**te **Lite**
 
@@ -22,7 +22,7 @@ Easily manage big data sets that can't fit into memory with minimum overhead.
 
 ## Quick start
 
-1. **DAByLite is an R package, so first install R and probably an IDE/editor.**
+1. **dfqr is an R package, so first install R and probably an IDE/editor.**
 
 The best installation istructions for R and RStudio can be found at [Posit](https://posit.co/download/rstudio-desktop/).
 
@@ -36,7 +36,7 @@ remotes::install_github("DAByLite/DAByLite")
 ## Usage
 
 ```{r}
-library(DAByLite)
+library(dfqr)
 ```
 
 1. **DAByLite uses CSV files, so first convert your file type to CSV.**
