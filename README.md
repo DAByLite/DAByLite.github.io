@@ -1,7 +1,7 @@
-# dfqr docs <a href="https://DAByLite.github.io"><img src="assets/images/DAByLite_hex.jpeg?raw=true" align="right" height="138" /></a>
+# dfqr docs <a href="https://dfqr.github.io"><img src="assets/images/dfqr_hex.jpeg?raw=true" align="right" height="138" /></a>
 
-[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/dabylite/dabylite/badge)](https://www.jsdelivr.com/package/gh/dabylite/dabylite)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DAByLite.DAByLite.github.io)
+[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/dfqr/dfqr/badge)](https://www.jsdelivr.com/package/gh/dfqr/dfqr)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dfqr.dfqr.github.io)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
@@ -12,11 +12,11 @@
 
 | Find the R package                                 | Find the documentation                     |
 |----------------------------------------------------|--------------------------------------------|
-| [dfqr Github repo](https://github.com/dfqr/dfqr)   | [DAByLite docs](https://dfqr.github.io/)   |
+| [dfqr Github repo](https://github.com/dfqr/dfqr)   | [dfqr docs](https://dfqr.github.io/)   |
 
-> Big data management in R with **DA**ta **By**te **Lite**
+> Data frame management, including potentially big data, and query utility for R.
 
-## What it does
+## What does it do?
 
 Easily manage big data sets that can't fit into memory with minimum overhead.
 
@@ -30,7 +30,7 @@ The best installation istructions for R and RStudio can be found at [Posit](http
 
 ```{r}
 install.packages("remotes")
-remotes::install_github("DAByLite/DAByLite")
+remotes::install_github("dfqr/dfqr")
 ```
 
 ## Usage
@@ -39,20 +39,20 @@ remotes::install_github("DAByLite/DAByLite")
 library(dfqr)
 ```
 
-1. **DAByLite uses CSV files, so first convert your file type to CSV.**
+1. **dfqr uses CSV files, so first convert your file type to CSV.**
 
 The burden is on the user to write the source data to CSV. Many tools have this capability and conversion tools are available.
 
-2. **DAByLite checks your CSV formatting.**
+2. **dfqr checks your CSV formatting.**
 
 Assuming your CSV file is called "mydata.csv".
 
 ```{r}
 check_csv("mydata.csv")
 ```
-DAByLite tells you if the format doesn't match the package's CSV standard. If no issues were detected, skip step 4.
+dfqr tells you if the format doesn't match the package's CSV standard. If no issues were detected, skip step 4.
 
-3. **DAByLite will adapt your CSV to the DAByLite CSV standard.**
+3. **dfqr will adapt your CSV to the dfqr CSV standard.**
 
 Assume you would like to write the source data "mydata.csv" to a new file called "mydata_formatted.csv".
 
@@ -60,7 +60,7 @@ Assume you would like to write the source data "mydata.csv" to a new file called
 rewrite_csv("mydata.csv", "mydata_formatted.csv")
 ```
 
-4. **DAByLite reads CSV data into an efficient format for reading.**
+4. **dfqr reads CSV data into an efficient format for reading.**
 
 You can control the number of rows and columns to read efficiently. For example, say you want to read 1 million rows at a time of each column separately. Set rows to 1000000 and cols to 1.
 
@@ -68,7 +68,7 @@ You can control the number of rows and columns to read efficiently. For example,
 mydata = read_csv("mydata_formatted.csv", rows = 1000000, cols = 1)
 ```
 
-5. **DAByLite reads CSV data into an efficient format for reading.**
+5. **dfqr reads CSV data into an efficient format for reading.**
 
 Now, read the first 1 million rows of the first variable. Set x to 1 (first million rows) and y to 1 (first variable).
 
