@@ -18,6 +18,16 @@
 
 > Data frame management, including potentially big data, and query utility for R.
 
+Learn more by exploring the documentation:
+
+1
+2
+3
+4
+5
+
+<!--
+
 ## What does it do?
 
 Easily manage big data sets that can't fit into memory with minimum overhead.
@@ -77,3 +87,5 @@ Now, read the first 1 million rows of the first variable. Set x to 1 (first mill
 ```{r}
 read_partial(mydata, x = 1, y = 1)
 ```
+
+-->
