@@ -1,11 +1,13 @@
-# dfqr docs <a href="https://dfqr.github.io"><img src="assets/images/dfqr_hex.png?raw=true" align="right" height="138" /></a>
+# R package `dfqr` docs <a href="https://dfqr.github.io"><img src="assets/images/dfqr_hex.png?raw=true" align="right" height="138" /></a>
 
+
+<!--
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/dfqr/dfqr/badge)](https://www.jsdelivr.com/package/gh/dfqr/dfqr)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dfqr.dfqr.github.io)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
-<!--
+
 ![CI](https://github.com/JV-conseil/jekyll-theme-read-the-docs/workflows/CI/badge.svg?branch=develop)
 [![License BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 -->
