@@ -1,4 +1,4 @@
-# dfqr docs <a href="https://dfqr.github.io"><img src="assets/images/dfqr_hex.jpeg?raw=true" align="right" height="138" /></a>
+# dfqr docs <a href="https://dfqr.github.io"><img src="assets/images/dfqr_hex.png?raw=true" align="right" height="138" /></a>
 
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/dfqr/dfqr/badge)](https://www.jsdelivr.com/package/gh/dfqr/dfqr)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dfqr.dfqr.github.io)
