@@ -20,7 +20,7 @@
 
 ## Learn more by exploring the documentation
 
-- **[Detailed index](/p/Index.html){: .button}** - Detailed index
+[Detailed index](/p/index.html){: .button} - Detailed index
 
 - **[Installation Guide](/p/Install.html)** - Install the package
 
