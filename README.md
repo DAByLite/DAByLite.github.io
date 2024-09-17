@@ -20,6 +20,8 @@
 
 ## Learn more by exploring the documentation
 
+<a href="/p/index.html" class="button">Detailed Index</a>  
+
 [Detailed index](/p/index.html){: .button} - Detailed index
 
 - **[Installation Guide](/p/Install.html)** - Install the package
