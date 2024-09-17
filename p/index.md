@@ -9,7 +9,7 @@ layout: default
 
 ## Installation
 
-[Installation Guide](install.md)  
+[Installation Guide](https://dfqr.github.io/p/Install.html)  
 Learn how to install the package from CRAN or GitHub and resolve any potential installation issues.
 
 ## Quick Start
