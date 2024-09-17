@@ -20,6 +20,8 @@ umami:
 
 readme_index:
   with_frontmatter: true
+  
+markdown: kramdown
 
 plugins:
   - jemoji
