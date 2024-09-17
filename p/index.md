@@ -7,42 +7,50 @@ layout: default
 
 # Index
 
-## Installation
+## Install
 
 [Installation Guide](/p/Install.html)  
-Learn how to install the package from CRAN or GitHub and resolve any potential installation issues.
+•	Detailed instructions for installing the package from CRAN (if applicable), GitHub, or other sources.
+•	Include system requirements and any dependencies.
+•	Commands like install.packages("yourpackage") or devtools::install_github("yourrepo").
 
 ## Quick Start
 
-[Quick Start Guide](Quick-Start.md)  
-Get up and running quickly with simple examples to begin using the package.
+[Quick Start Guide](/p/Quick-Start.md)  
+•	Get up and running quickly with simple examples to begin using the package.
 
-## Features
+## Features & Use Cases
 
-[Features Overview](features.html)  
-Explore the key features and functionalities of the package, with detailed explanations and use cases.
+[Features & Use Cases](/p/features.html)  
+•	Explore the key features and functionality of the package, with detailed explanations and use cases.
 
-## Function Reference
+## Reference & Functions
 
-[Function Reference](reference.html)  
-Comprehensive documentation for all functions included in the package, with detailed arguments and examples.
+[Reference & Functions](/p/Reference-Functions.html)  
+•	Comprehensive documentation for all important functions included in the package, with detailed arguments and examples.
 
-## Vignettes
+## Tutorials
 
-[Vignettes](vignettes.html)  
-In-depth tutorials and extended examples demonstrating how to use the package effectively for various tasks.
+[Tutorials](/p/Tutorials.html)  
+•	In-depth tutorials and extended examples demonstrating how to use the package effectively.
 
-## FAQ
+## FAQ & Troubleshooting
 
-[FAQ](faq.html)  
-Frequently asked questions and common issues, along with solutions to help you troubleshoot.
+[FAQ](/p/faq.html)  
+•	Frequently asked questions and common issues, along with solutions to help you troubleshoot.
 
-## Contributing
+## Contribute
 
-[Contributing Guidelines](contributing.html)  
-Interested in contributing? Learn how you can report issues, submit patches, and help improve the package.
+[Contribute](/p/contribute.html)  
+•	Interested in contributing?
+•	Contact the package author
 
-## Changelog
+## News
 
-[Changelog](changelog.html)  
-Keep up with the latest updates, bug fixes, and new features added to the package.
+[News](/p/News.html)  
+•	Keep up with the latest news about `dfqr`.
+
+## Benchmarks
+
+[Benchmarks](/p/benchmarks.html)  
+•	See how fast it really is.
