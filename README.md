@@ -20,7 +20,7 @@
 
 ### Learn more by exploring the list below or the sidebar
 
-- **[Detailed index](/p/index.html)** - Detailed index
+- **[Index](/p/index.html)** - Detailed index
 
 - **[Installation Guide](/p/Install.html)** - Install the package
 
