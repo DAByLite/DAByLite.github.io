@@ -18,7 +18,7 @@
 
 > Data frame management, including potentially big data, and query utility for R.
 
-## Learn more by exploring the documentation
+### Learn more by exploring the list below or the sidebar
 
 - **[Detailed index](/p/index.html)** - Detailed index
 
