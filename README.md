@@ -20,13 +20,7 @@
 
 ## Learn more by exploring the documentation
 
-<div class="custom-container">
-  <a href="/p/Index.html" class="button">Detailed Index</a>
-</div>
-
-<a href="/p/index.html" class="button">Detailed Index</a>  
-
-[Detailed index](/p/index.html){: .button} - Detailed index
+- **[Detailed index](/p/index.html)** - Detailed index
 
 - **[Installation Guide](/p/Install.html)** - Install the package
 
