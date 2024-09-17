@@ -18,13 +18,27 @@
 
 > Data frame management, including potentially big data, and query utility for R.
 
-Learn more by exploring the documentation:
+## Learn more by exploring the documentation
 
-1
-2
-3
-4
-5
+[Detailed index](/p/Index.html) - Detailed index
+
+[Installation Guide](/p/Install.html) - Install the package
+
+[Quick Start Guide](/p/Quick-Start.html) - Get up and running quickly
+
+[Features & Use Cases](/p/features.html) - The whole game
+
+[FAQ](/p/faq.html) - Frequently asked questions and common issues
+
+[Tutorials](/p/Tutorials.html) - Learn through tutorials
+
+[Reference & Functions](/p/Reference-Functions.html) - Function reference
+
+[Benchmarks](/p/benchmarks.html) - Performance
+
+[News](/p/News.html) - Stay up to date with latest developments
+
+[Contribute](/p/contribute.html) - Interested in contributing?
 
 <!--
 

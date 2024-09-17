@@ -16,7 +16,7 @@ layout: default
 
 ## Quick Start
 
-[Quick Start Guide](/p/Quick-Start.md)  
+[Quick Start Guide](/p/Quick-Start.html)  
 •	Get up and running quickly with simple examples to begin using the package.
 
 ## Features & Use Cases
@@ -26,7 +26,7 @@ layout: default
 
 ## Reference & Functions
 
-[Reference & Functions](/p/Reference-Functions.html)  
+[Reference & Functions](/p/Reference-Functions.html)
 •	Comprehensive documentation for all important functions included in the package, with detailed arguments and examples.
 
 ## Tutorials
