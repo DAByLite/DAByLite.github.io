@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Installation Instructions
+# Installation Instructions <img src="assets/images/dfqr_hex.png?raw=true" align="right" height="138" />
 
 ## 0. **System Dependencies**
 

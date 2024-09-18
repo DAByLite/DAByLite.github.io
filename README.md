@@ -1,4 +1,4 @@
-# R package `dfqr` documentation <a href="https://dfqr.github.io"><img src="assets/images/dfqr_hex.png?raw=true" align="right" height="138" /></a>
+# R package `dfqr` documentation <img src="assets/images/dfqr_hex.png?raw=true" align="right" height="138" />
 
 
 <!--
